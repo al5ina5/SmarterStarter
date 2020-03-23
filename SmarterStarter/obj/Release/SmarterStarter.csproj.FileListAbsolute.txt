@@ -1,0 +1,12 @@
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/bin/Release/SmarterStarter.dll.config
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/bin/Release/SmarterStarter.dll
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/bin/Release/SmarterStarter.pdb
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/bin/Release/Newtonsoft.Json.dll
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/bin/Release/OTAPI.dll
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/bin/Release/TerrariaServer.exe
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/bin/Release/TShockAPI.dll
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/bin/Release/Newtonsoft.Json.xml
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/obj/Release/SmarterStarter.csproj.CopyComplete
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/obj/Release/SmarterStarter.dll
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/obj/Release/SmarterStarter.pdb
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/obj/Release/SmarterStarter.csprojAssemblyReference.cache

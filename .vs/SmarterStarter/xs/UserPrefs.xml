@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmarterStarter/CheckBosses.cs">
+    <Files>
+      <File FileName="SmarterStarter/Plugin.cs" Line="25" Column="10" />
+      <File FileName="SmarterStarter/CheckBosses.cs" Line="16" Column="20" />
+      <File FileName="SmarterStarter/PluginSettings.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SmarterStarter" expanded="True">
+            <Node name="SmarterStarter" expanded="True">
+              <Node name="CheckBosses.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,5 +1,7 @@
-﻿using Newtonsoft.Json.Linq;
+﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using System;
+using System.Collections.Generic;
 using Terraria;
 using TerrariaApi.Server;
 using TShockAPI;
@@ -18,33 +20,16 @@ namespace SmarterStarter
         {
 
         }
+
         public override void Initialize()
         {
-            Console.WriteLine("The plugin has initialized. Yay!");
+            PluginSettings.LoadSettings();
+            ServerApi.Hooks.ServerJoin.Register(this, OnServerJoin);
+        }
 
-            StarterItems.Item[] items = new StarterItems.Item[3];
-            items[0] = new StarterItems.Item()
-            {
-                netID = 30,
-                prefix = 0,
-                stack = 1
-            };
-
-            items[1] = new StarterItems.Item()
-            {
-                netID = 40,
-                prefix = 0,
-                stack = 1
-            };
-
-            items[2] = new StarterItems.Item()
-            {
-                netID = 60,
-                prefix = 0,
-                stack = 3
-            };
-
-            StarterItems.Set(300, 40, items);
+        void OnServerJoin(JoinEventArgs args)
+        {
+            CheckBosses.Check();
         }
 
         protected override void Dispose(bool disposing)

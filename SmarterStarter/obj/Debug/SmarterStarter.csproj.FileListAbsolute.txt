@@ -1,18 +1,25 @@
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\bin\Debug\SmarterStarter.dll
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\bin\Debug\SmarterStarter.pdb
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\bin\Debug\OTAPI.dll
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\bin\Debug\TerrariaServer.exe
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\bin\Debug\TShockAPI.dll
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\bin\Debug\HttpServer.dll
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\bin\Debug\MySql.Data.dll
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\bin\Debug\BCrypt.Net.dll
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\bin\Debug\Mono.Data.Sqlite.dll
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\obj\Debug\SmarterStarter.csprojAssemblyReference.cache
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\obj\Debug\SmarterStarter.csproj.CoreCompileInputs.cache
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\obj\Debug\SmarterStarter.csproj.CopyComplete
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\obj\Debug\SmarterStarter.dll
-C:\Users\Sebastian Alsina\Desktop\Projects\SmarterStarter\SmarterStarter\obj\Debug\SmarterStarter.pdb
-C:\Users\Sebastian Alsina\Desktop\TShock Mobile 4.3.26.1\ServerPlugins\SmarterStarter.dll
-C:\Users\Sebastian Alsina\Desktop\TShock Mobile 4.3.26.1\ServerPlugins\SmarterStarter.pdb
-C:\Users\Sebastian Alsina\Desktop\TShock Mobile 4.3.26.1\ServerPlugins\SmarterStarter.dll.config
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/bin/Debug/SmarterStarter.dll
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/bin/Debug/SmarterStarter.pdb
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/bin/Debug/OTAPI.dll
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/bin/Debug/TerrariaServer.exe
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/bin/Debug/TShockAPI.dll
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/bin/Debug/Newtonsoft.Json.dll
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/bin/Debug/HttpServer.dll
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/bin/Debug/MySql.Data.dll
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/bin/Debug/BCrypt.Net.dll
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/bin/Debug/Mono.Data.Sqlite.dll
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/obj/Debug/SmarterStarter.csprojAssemblyReference.cache
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/obj/Debug/SmarterStarter.csproj.CoreCompileInputs.cache
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/obj/Debug/SmarterStarter.csproj.CopyComplete
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/obj/Debug/SmarterStarter.dll
+C:/Users/Sebastian Alsina/Desktop/Projects/SmarterStarter/SmarterStarter/obj/Debug/SmarterStarter.pdb
+C:/Users/Sebastian Alsina/Desktop/TShock Mobile 4.3.26.1/ServerPlugins/SmarterStarter.dll
+C:/Users/Sebastian Alsina/Desktop/TShock Mobile 4.3.26.1/ServerPlugins/SmarterStarter.pdb
+C:/Users/Sebastian Alsina/Desktop/TShock Mobile 4.3.26.1/ServerPlugins/SmarterStarter.dll.config
+/Users/alsinas/TShock Mobile 4.3.26.1/ServerPlugins/SmarterStarter.dll.config
+/Users/alsinas/TShock Mobile 4.3.26.1/ServerPlugins/SmarterStarter.dll
+/Users/alsinas/TShock Mobile 4.3.26.1/ServerPlugins/SmarterStarter.pdb
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/obj/Debug/SmarterStarter.csprojAssemblyReference.cache
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/obj/Debug/SmarterStarter.csproj.CopyComplete
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/obj/Debug/SmarterStarter.dll
+/Users/alsinas/Projects/SmarterStarter/SmarterStarter/obj/Debug/SmarterStarter.pdb
